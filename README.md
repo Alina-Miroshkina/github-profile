@@ -43,9 +43,6 @@
 
 ---
 
-### Моя статистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш-ник&show_icons=true&theme=dark)
-
 ## 🛠️ Tech Stack
 
 ### Frontend Mastery
