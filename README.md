@@ -1,6 +1,6 @@
 # github-profile
 markdown
-# 👋# Привет! 🍀 Меня зовут Alina Miroshkina
+# 👋Привет! 🍀 Меня зовут Alina Miroshkina
 
 Я Front-end разработчик. Ищу возможности для профессионального роста...
 📧 [diamond_swan@mail.ru](mailto:diamond_swan@mail.ru) | [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](
