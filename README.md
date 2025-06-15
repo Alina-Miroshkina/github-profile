@@ -3,7 +3,8 @@
 # 👋Привет! 🍀 Меня зовут Alina Miroshkina
 
 Я Front-end разработчик. Ищу возможности для профессионального роста...
-📧 [diamond_swan@mail.ru](mailto:diamond_swan@mail.ru) | [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://web.telegram.org/k/?account=2)
+📧 [diamond_swan@mail.ru](mailto:diamond_swan@mail.ru) |
+ | [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+axXgf7pc-wE3NmIy)
 ---
 💻 **Frontend Developer** | ⚖️ **Ex-Lawyer Turned Coder** | 🌍 **Multilingual Tech Enthusiast**
 
