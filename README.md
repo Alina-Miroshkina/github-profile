@@ -62,7 +62,7 @@ markdown
   </a>
   
   <!-- SheCodes Plus -->
-  <a href="#">
+  <a href="https://www.shecodes.com/certificates/0f26986829ba4753825721c884b2fe61">
     <img src="https://img.shields.io/badge/-SheCodes_Plus-FF4785?style=for-the-badge&logo=html5&logoColor=white" alt="SheCodes Plus">
   </a>
   
@@ -80,6 +80,26 @@ markdown
   <a href="https://certs.prometheus.org.ua/cert/39ba54c63d2f477bb6ec6b17899cd673">
     <img src="https://img.shields.io/badge/-Git_Expert-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Cert">
   </a>
+  
+  <!-- Web UI -->
+  <a href="https://certs.prometheus.org.ua/cert/f6b3a249741d49d6a5c819e13dd25921">
+    <img src="https://img.shields.io/badge/-Web_UI_Development-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Web UI">
+  </a>
+  
+  <!-- ChatGPT -->
+  <a href="https://certs.prometheus.org.ua/cert/448855aa64df4418a5f685d828ae3d71">
+    <img src="https://img.shields.io/badge/-ChatGPT_Fundamentals-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  </a>
+  
+  <!-- German Culture -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/-German_Culture-000000?style=for-the-badge&logo=german&logoColor=white" alt="German Culture">
+  </a>
+  
+  <!-- Java Beginner -->
+  <a href="https://certs.prometheus.org.ua/cert/24c80cb3effa4e1c938d174d21125418">
+    <img src="https://img.shields.io/badge/-Java_Beginner-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
 </div>
 
 <details>
@@ -89,13 +109,21 @@ markdown
   1. **Frontend Fundamentals** (Ciklum/Prometheus) - Июнь 2024  
      [Проверить](https://certs.prometheus.org.ua/cert/0f26986829ba4753825721c884b2fe61)
   2. **Web Development** (SheCodes Plus) - Июль 2024  
-     Основные технологии: HTML5, CSS3, JavaScript ES6, Git, GitHub
+     Технологии: HTML5, CSS3, JavaScript ES6, Git, GitHub
   3. **Introduction to Coding** (SheCodes Basics) - Август 2022  
-     Основы программирования и веб-разработки
+     Основы программирования
   4. **Linux Fundamentals** - Май 2024  
      [Проверить](https://certs.prometheus.org.ua/cert/002c63f59245497681dc71bf9a572c58)
-  5. **Git for Distributed Development** - 2024  
+  5. **Git for Distributed Development** - Февраль 2024  
      [Проверить](https://certs.prometheus.org.ua/cert/39ba54c63d2f477bb6ec6b17899cd673)
+  6. **Web UI Development** - Январь 2024  
+     [Проверить](https://certs.prometheus.org.ua/cert/f6b3a249741d49d6a5c819e13dd25921)
+  7. **ChatGPT Fundamentals** - Январь 2024  
+     [Проверить](https://certs.prometheus.org.ua/cert/448855aa64df4418a5f685d828ae3d71)
+  8. **Understanding German Work Culture** - Январь 2024  
+     257 учебных часов, 9 модулей
+  9. **Java Beginner** - Июнь 2024  
+     [Проверить](https://certs.prometheus.org.ua/cert/24c80cb3effa4e1c938d174d21125418)
 </details>
 ---
 
