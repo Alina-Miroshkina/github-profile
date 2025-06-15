@@ -138,35 +138,8 @@ markdown
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alina-Miroshkina&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Miroshkina&layout=compact&langs_count=7&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alina-Miroshkina&theme=radical" alt="mystreak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Alina-Miroshkina&theme=onedark&row=2&column=4" alt="trophies"/>
-</div>
 
 ---
-
-## ⚙️ GitHub Actions
-Автоматическое обновление статистики:
-```yaml
-# .github/workflows/stats.yml
-name: Update Stats
-on:
-  schedule:
-    - cron: '0 0 * * *' # ежедневно в полночь
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: JamesIves/github-pages-deploy-action@4.1.4
-        with:
-          branch: main
-          folder: /
 🎓 Background
 text
 📚 Education:
@@ -194,3 +167,36 @@ text
 ### Контакты:
 📧 Email: diamond_swan@mail.ru
 📱 Telegram: ---
+----
+## 📊 GitHub Статистика
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Alina-Miroshkina&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alina-Miroshkina&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alina-Miroshkina&theme=radical)
+
+## ⚙️ GitHub Actions для автоматического обновления
+
+1. Создайте файл `.github/workflows/stats.yml` с таким содержимым:
+
+```yaml
+name: Update GitHub Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Ежедневное обновление в полночь
+  workflow_dispatch: # Ручной запуск
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Stats
+        uses: github-profile-summary-cards@latest
+        with:
+          profile_name: Alina-Miroshkina
+          theme: radical
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update GitHub stats"
+          git push
