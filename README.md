@@ -7,6 +7,8 @@
 ---
 💻 **Frontend Developer** | ⚖️ **Ex-Lawyer Turned Coder** | 🌍 **Multilingual Tech Enthusiast**
 
+[![Visitors](https://komarev.com/ghpvc/?username=Alina-Miroshkina&color=blueviolet&style=flat-square)](https://github.com/Alina-Miroshkina)
+[![Followers](https://img.shields.io/github/followers/Alina-Miroshkina?label=Follow&style=social)](https://github.com/Alina-Miroshkina?tab=followers)
 
 
 ### Front-end:
