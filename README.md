@@ -8,7 +8,7 @@ markdown
 💻 **Frontend Developer** | ⚖️ **Ex-Lawyer Turned Coder** | 🌍 **Multilingual Tech Enthusiast**
 
 
-## Технологии и навыки:
+
 ### Front-end:
 ## Технологии и навыки:
 
